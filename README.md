@@ -37,7 +37,7 @@ A privacy-first cycle tracking PWA. No accounts, no servers, no data leaving you
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonelponce-862391214)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ponceleonel/)
 - 📧 leonel.ponce96@gmail.com
 - 🌎 Open to remote backend roles — English & Spanish speaker
 
