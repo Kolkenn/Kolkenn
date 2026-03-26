@@ -28,10 +28,9 @@ Go, SQL, HTTP servers, Docker, and everything in between.
 
 ## 📌 A Few Things I've Built
 
-- 🗡️ **[Ye Olde Pointless Quest](https://github.com/Kolkenn/dungeon_crawler)** — 
-A terminal roguelike in pure Python. The quest is pointless. The learning was not.
-- 💜 **[Aura](https://github.com/Kolkenn/aura_react)** — 
-A privacy-first cycle tracking PWA. No accounts, no servers, no data leaving your device.
+- 🌿 **[Lawn Ledgers](https://github.com/Kolkenn/lawn-ledgers)** — A full-stack SaaS platform for landscaping businesses. FastAPI + Stripe + Firebase backend, React + TypeScript frontend. Solo project.
+- 💜 **[Aura](https://github.com/Kolkenn/aura_react)** — A privacy-first cycle tracking PWA. No accounts, no servers, no data leaving your device.
+- 🗡️ **[Ye Olde Pointless Quest](https://github.com/Kolkenn/dungeon_crawler)** — A terminal roguelike in pure Python. The quest is pointless. The learning was not.
 
 ---
 
