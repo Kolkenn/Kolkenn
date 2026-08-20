@@ -1,14 +1,8 @@
 # Hey, I'm Leo 👋
 
-I'm a backend-focused software engineer based in Miami, FL. For the
-past four years I've been building and operating production
-infrastructure for transaction-critical retail platforms — POS, RFID,
-and payment systems across 70+ US/UK locations — and I'm now
-channeling that into full-time backend/platform engineering.
+I'm a backend-focused software developer based in Miami, FL. For the past four years, I've been building and operating production infrastructure for transaction-critical retail platforms — POS, RFID, and payment systems across 70+ US/UK locations — and I'm now channeling that into full-time backend and platform engineering.
 
-I started writing code because I kept running into problems nobody
-else thought were worth fixing. So I fixed them myself. Somewhere
-in that process, I fell in love with it.
+I started writing code because I kept running into operational problems nobody else thought were worth fixing. So I fixed them myself. Somewhere in that process, I fell in love with software development.
 
 ---
 
@@ -16,15 +10,11 @@ in that process, I fell in love with it.
 
 Senior Retail Systems Specialist at Perry Ellis International, where I:
 
-- Built a multi-threaded RFID reconciliation pipeline with a custom
-  rules engine that traces item transaction history, classifies
-  inventory anomalies, and safely auto-corrects them via batch API
-  operations — with failure containment logic baked in.
-- Engineered reliability automation for legacy POS systems that cut
-  weekend on-call incident volume by ~50%.
-- Own the MDM device profile architecture (Workspace ONE UEM) for a
-  company-wide POS platform migration across 70+ locations.
-- Carry production on-call responsibility for POS and payment systems.
+- Build Software Prototypes: Designed an object-oriented Python rules engine that traces item transaction histories, classifies inventory anomalies, and safely auto-corrects them via batch API operations with failure containment logic.
+- Bridge Legacy Systems: Engineered a web application and companion event-driven service to process unstructured data, validate employee identities using multi-tier fallback logic, and dynamically generate formatted LDIF files for legacy Oracle SIM servers.
+- Implement Automated Testing: Utilize Pytest and CloudCode to engineer automated test classes, validating functionality and preventing codebase regressions across system integrations.
+- Drive Reliability: Engineered support automation for legacy POS systems that cut weekend on-call incident volume by ~50% through proactive system improvements.
+- Manage Enterprise Architecture: Own the MDM device profile architecture (Workspace ONE UEM) for a company-wide POS platform migration.
 
 ---
 
@@ -40,9 +30,9 @@ Senior Retail Systems Specialist at Perry Ellis International, where I:
 
 ## 📜 Certifications
 
-- CompTIA Network+ ce
-- CompTIA IT Operations Specialist (CIOS Stackable)
-- CompTIA A+
+- [CompTIA Network+](https://www.credly.com/badges/66d5d722-a79a-4ab8-9a14-b3cb87c98295)
+- [CompTIA A+](https://www.credly.com/badges/c743fdfb-cd9d-42ca-ab2b-cb2f59981909)
+- [CompTIA IT Operations Specialist](https://www.credly.com/badges/1c058741-655f-44f1-939f-6c623805c33f)
 
 ---
 
